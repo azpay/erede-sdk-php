@@ -1,6 +1,6 @@
 {
 	"name": "azpay/erede-sdk-php",
-	"type": "object",
+	"type": "library",
 	"description": "SDK oficial E-Rede",
 	"keywords": [
 		"erede",
@@ -9,10 +9,6 @@
 	"require": {
 		"php": "~5.6|~7.0"
 	},
-	
-    "scripts": {
-        "test": "phpunit --colors=always"
-    },
 	"autoload": {
 		"psr-0": {
 			"erede": "src/"
@@ -24,6 +20,5 @@
 			"name": "Bruno Paz",
 			"email": "brunopaz@azpay.com.br"
 		}
-	],
-
+	]
 }
