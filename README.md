@@ -5,7 +5,7 @@ SDK oficial da [RedeCard](https://www.redecard.com.br) disponibilizada via compo
 ## Instalação via composer
 
 ```bash
-$ composer require azpay/erede-sdk-php
+$ composer require azpay/erede-sdk
 ```
 
 Exemplos: https://www.userede.com.br/desenvolvedores/pt/produto/e-Rede#bibliotecas-php
