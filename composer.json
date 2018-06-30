@@ -1,6 +1,6 @@
 {
 	"name": "azpay/erede-sdk-php",
-	"type": "library",
+	"type": "object",
 	"description": "SDK oficial E-Rede",
 	"keywords": [
 		"erede",
